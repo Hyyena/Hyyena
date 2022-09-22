@@ -78,8 +78,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyyena&show_icons=true&theme=cobalt&count_private=true)
 &nbsp;
-&nbsp;
-[![Hyyena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hyyena&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;[![Hyyena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hyyena&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!-- &nbsp;
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyyena&layout=compact&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
