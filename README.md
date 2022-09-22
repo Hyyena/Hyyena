@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hello 👋
 
-안녕하세요! 백엔드 개발자가 되기 위해 공부중입니다💪
+안녕하세요! 백엔드 개발자가 되기 위해 공부중입니다.💪
   
   
 </br>
