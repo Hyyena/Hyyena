@@ -19,11 +19,14 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyeonwoo%20Cheon&fontSize=90&animation=twinkling)
 
-## 👋
+### 👋 Hello 👋
+
+안녕하세요! 백엔드 개발자가 되기 위해 공부중입니다💪
+  
   
 </br>
 
-### 💻 TECH STACK 💻
+### ✨ TECH STACK ✨
 
 </br>
 
