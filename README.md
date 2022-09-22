@@ -93,5 +93,8 @@ Here are some ideas to get you started:
 ### 🎉 PROJECT 🎉
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIHub-Cinemaster&repo=movie-recommendation-web-back&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIHub-Cinemaster&repo=movie-recommendation-python-deploy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
