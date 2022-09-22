@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 </br>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-&nbsp;
-&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
 
 </br>
 </br>
