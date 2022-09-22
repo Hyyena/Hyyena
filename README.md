@@ -77,12 +77,23 @@ Here are some ideas to get you started:
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyyena&show_icons=true&theme=cobalt&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyyena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+&nbsp;
+[![Hyyena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hyyena&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<!-- &nbsp;
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyyena&layout=compact&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </br>
+
+### 💡 ALGORITHM 💡
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjtxm11)](https://solved.ac/sjtxm11)
+
 </br>
 
-
+### 🎉 PROJECT 🎉
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIHub-Cinemaster&repo=movie-recommendation-web-back&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
