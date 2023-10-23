@@ -34,41 +34,10 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-&nbsp;
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-&nbsp;
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-&nbsp;
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 
 </br>
 </br>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-
-</br>
-</br>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-
-</br>
-</br>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-
-</br>
-</br>
-
-### ✏️ STUDYING ✏️
-
-</br>
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-&nbsp;
-&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 
 </br>
@@ -95,9 +64,12 @@ Here are some ideas to get you started:
 
 ### 🎉 PROJECT 🎉
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hows-the-Air-Today&repo=HAT-backend-spring-boot&theme=radical)](https://github.com/Hows-the-Air-Today/HAT-backend-spring-boot)
+</br>
+</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIHub-Cinemaster&repo=movie-recommendation-web-back&theme=radical)](https://github.com/AIHub-Cinemaster/movie-recommendation-web-back)
-&nbsp;
-&nbsp;
+</br>
+</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIHub-Cinemaster&repo=movie-recommendation-python-deploy&theme=radical)](https://github.com/AIHub-Cinemaster/movie-recommendation-python-deploy)
 
 </div>
