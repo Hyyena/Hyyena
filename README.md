@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyyena&count_bg=%23937DC2&title_bg=%23C689C6&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hyeonwoo%20Cheon&fontSize=90&animation=twinkling)
 
-### 👋 Hello 👋
-
-안녕하세요! 백엔드 개발자가 되기 위해 공부중입니다.💪
-  
-  
 </br>
 
 ### ✨ TECH STACK ✨
@@ -52,17 +45,3 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjtxm11)](https://solved.ac/sjtxm11)
-
-</br>
-
-### 🎉 PROJECT 🎉
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hows-the-Air-Today&repo=HAT-backend-spring-boot&theme=radical)](https://github.com/Hows-the-Air-Today/HAT-backend-spring-boot)
-</br>
-</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIHub-Cinemaster&repo=movie-recommendation-web-back&theme=radical)](https://github.com/AIHub-Cinemaster/movie-recommendation-web-back)
-</br>
-</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIHub-Cinemaster&repo=movie-recommendation-python-deploy&theme=radical)](https://github.com/AIHub-Cinemaster/movie-recommendation-python-deploy)
-
-</div>
